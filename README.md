@@ -16,3 +16,6 @@ public class Main {
 		int[] array = {0,1,4,7,1};
 		boolean b = isSorted(array, array.length);
 		System.out.println(b);
+			}
+}
+
