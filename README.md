@@ -1,5 +1,5 @@
 # hello-world
-public class Main {
+
 	
 	public static boolean isSorted(int[] array, int lenght) {
 		if(array == null || lenght<2) {
@@ -17,5 +17,5 @@ public class Main {
 		boolean b = isSorted(array, array.length);
 		System.out.println(b);
 			}
-}
+
 
